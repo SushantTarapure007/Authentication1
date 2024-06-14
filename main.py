@@ -7,7 +7,7 @@ from typing import Optional
 from passlib.context import CryptContext
 
 SECRET_KEY="993c266f1bb70699b4d206d9b343a0bc9b2c6244db27cea9c69893f6e6db9dd1"
-ALGORITHM="HS256"
+ALGORITHM="HS512"
 ACCESS_TOKEN_EXPIRES_MINUTES= 30
 
 
